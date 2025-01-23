@@ -161,5 +161,5 @@ Les contenus texte brut et html sont normalisés pour etre lilsible.
 Ce projet a été développé par Erwan Arnaud.
 
 ## Documentation
-
 [Documentation de l'API](openapi.yaml)
+Utiliser Swagger Editor en ligne pour regarder la documentation API.
