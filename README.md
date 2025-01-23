@@ -112,6 +112,7 @@ URL : http://stage_gtl/project_api/view_email.php
 ```http
 URL : http://stage_gtl/project_api/index.php
 ```
+**Exemple de réponse**:
 
 #
 ## 4. Telechager les piéce jointe d'un mail spécifique
@@ -160,5 +161,5 @@ Les contenus texte brut et html sont normalisés pour etre lilsible.
 Ce projet a été développé par Erwan Arnaud.
 
 ## Documentation
+
 [Documentation de l'API](openapi.yaml)
-Utiliser Swagger Editor en ligne pour regarder la documentation API.
