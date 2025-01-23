@@ -1,0 +1,219 @@
+[
+    {
+        "email_number": 31,
+        "subject": "Mail avec pièces jointes",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 4 Oct 2024 16:55:56 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 30,
+        "subject": "Test message récent",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 4 Oct 2024 15:56:29 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 29,
+        "subject": "New message test",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 4 Oct 2024 15:50:34 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 28,
+        "subject": "Mail avec caractères spéciaux et mise en forme",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 11:08:23 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 27,
+        "subject": "Mail avec de la mise en forme",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Thu, 26 Sep 2024 16:09:22 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 26,
+        "subject": "Mail avec mise en forme et accents",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 10:34:26 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 25,
+        "subject": "Caractères spéciaux",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 11:00:11 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 24,
+        "subject": "Mail avec signature sans image (Thunderbird)",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 16:15:52 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 23,
+        "subject": "Mail avec signature (Thunderbird)",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 11:09:12 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 22,
+        "subject": "Mail avec image inline",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 11:50:14 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 21,
+        "subject": "Image inline (mais en pièce jointe) (Thunderbird)",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 15:14:37 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 20,
+        "subject": "Image inline (Thunderbird)",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 16:10:58 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 19,
+        "subject": "Mail avec image inline (Thunderbird)",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Fri, 27 Sep 2024 16:13:45 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 18,
+        "subject": "Mail TB avec PJ",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Mon, 30 Sep 2024 12:59:24 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 17,
+        "subject": "Mail avec 2 PJ",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Mon, 30 Sep 2024 13:20:10 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 16,
+        "subject": "Mail avec deux pièces jointes du même nom",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Mon, 30 Sep 2024 13:24:50 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 15,
+        "subject": "Image Inline",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Mon, 30 Sep 2024 13:32:18 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 14,
+        "subject": "Inline image Thunderbird",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Tue, 1 Oct 2024 09:47:05 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 13,
+        "subject": "Lorem Ipsum #2",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Thu, 3 Oct 2024 16:33:43 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 12,
+        "subject": "Lorem Ipsum",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Thu, 3 Oct 2024 16:32:32 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 11,
+        "subject": "Mail test",
+        "from": "Dany DA GRAÇA <dagracadany@gmx.fr>",
+        "date": "Thu, 3 Oct 2024 16:21:16 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 10,
+        "subject": "Pictos",
+        "from": "Doryan BESSIERE <doryan@gtl-digital.fr>",
+        "date": "Thu, 3 Oct 2024 14:22:09 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 9,
+        "subject": "Lib php",
+        "from": "Doryan BESSIERE <doryan@gtl-digital.fr>",
+        "date": "Fri, 27 Sep 2024 09:30:29 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 8,
+        "subject": "Mail avec mise en forme (Outlook)",
+        "from": "demo <demo@gtl-digital.fr>",
+        "date": "Fri, 27 Sep 2024 11:10:01 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 7,
+        "subject": "Mail avec mise en forme #2 (Outlook)",
+        "from": "demo <demo@gtl-digital.fr>",
+        "date": "Fri, 27 Sep 2024 11:11:32 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 6,
+        "subject": "Mail avec image inline (Outlook)",
+        "from": "demo <demo@gtl-digital.fr>",
+        "date": "Fri, 27 Sep 2024 12:02:04 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 5,
+        "subject": "Regarde cette super vidéo !",
+        "from": "Doryan BESSIERE <doryan@gtl-digital.fr>",
+        "date": "Fri, 27 Sep 2024 16:26:08 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 4,
+        "subject": "Voici un email",
+        "from": "Gaëtan GENTIL | gtl-digital <gaetan@gtl-digital.fr>",
+        "date": "Tue, 24 Sep 2024 09:13:01 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 3,
+        "subject": "Pièce jointe",
+        "from": "Gaëtan GENTIL | gtl-digital <gaetan@gtl-digital.fr>",
+        "date": "Tue, 24 Sep 2024 09:13:20 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 2,
+        "subject": "Image Inline Outlook",
+        "from": "demo <demo@gtl-digital.fr>",
+        "date": "Mon, 30 Sep 2024 13:37:08 +0200",
+        "unread": false
+    },
+    {
+        "email_number": 1,
+        "subject": "Mail OT avec PJ",
+        "from": "demo <demo@gtl-digital.fr>",
+        "date": "Mon, 30 Sep 2024 13:15:53 +0200",
+        "unread": false
+    }
+]
