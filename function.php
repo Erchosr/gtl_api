@@ -14,11 +14,9 @@ class EmailConfig {
         return self::$config[$key] ?? null;
     }
 }
-
 // Classe pour gérer la connexion à la boîte de réception
 class EmailConnection {
     private static $mailbox;
-
     // Méthode pour se connecter à la boîte de réception
     public static function connectMailbox() {
         $hostname = EmailConfig::get("hostname");
@@ -190,7 +188,6 @@ class EmailDetails {
         return $unreadEmails;
     }
 }
-
 // Classe pour gérer l"installation des pièces jointes
 class EmailAttachmentHandler {
     // Méthode pour installer les pièces jointes d"un email spécifique
