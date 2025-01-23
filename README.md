@@ -162,4 +162,4 @@ Ce projet a été développé par Erwan Arnaud.
 
 ## Documentation
 
-[Documentation de l'API](https://linktodocumentation)
+[Documentation de l'API](openapi.yaml)
