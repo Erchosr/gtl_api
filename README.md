@@ -112,7 +112,6 @@ URL : http://stage_gtl/project_api/view_email.php
 ```http
 URL : http://stage_gtl/project_api/index.php
 ```
-**Exemple de réponse**:
 
 #
 ## 4. Telechager les piéce jointe d'un mail spécifique
