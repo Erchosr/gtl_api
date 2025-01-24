@@ -30,8 +30,8 @@ L'API Email permet de récupérer les détails des emails, de lister les emails 
 Créez un fichier `config.php` dans le même répertoire que `function.php` avec le contenu suivant :
 ```http
 return{
-    'hostname' => '{pro2.mail.ovh.net:993/imap/ssl}INBOX',
-    'username' => '[nom utillisateur]',
+    'hostname' => '{[nom du serveur]:993/imap/ssl}INBOX',
+    'username' => '[nom utillisateur du mail]',
     'password' => '[mot de passe du mail]
 }
 ```
@@ -40,7 +40,7 @@ return{
 ## 1. Récupération des détails d'un email spécifique
 **Description** : Récupère les détails d'un email spécifique.
 ```http
-URL : http://stage_gtl/project_api/view_email.php?email_number=[id_du_mail]
+URL : /stage_gtl/project_api/view_email.php?email_number=[id_du_mail]
 
 ```
 
@@ -73,7 +73,7 @@ URL : http://stage_gtl/project_api/view_email.php?email_number=[id_du_mail]
 **Description** : Retourne tous les emails non lus.
 
 ```http
-URL : http://stage_gtl/project_api/view_email.php
+URL : /stage_gtl/project_api/view_email.php
 ```
 
 **Exemple de réponse**:
@@ -110,7 +110,7 @@ URL : http://stage_gtl/project_api/view_email.php
 **Description** : Affiche une liste d'emails de faacon visuelle et affiche les different destinataires du mail. A partir de cette page, il est possible d'aller sur les different URL API du mail
 
 ```http
-URL : http://stage_gtl/project_api/index.php
+URL : /stage_gtl/project_api/index.php
 ```
 **Exemple de réponse**:
 
@@ -162,4 +162,4 @@ Ce projet a été développé par Erwan Arnaud.
 
 ## Documentation
 
-[Documentation de l'API](openapi.yaml)
+[Documentation de l'API](documentation/index.html)

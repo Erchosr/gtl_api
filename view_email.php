@@ -15,4 +15,7 @@ try {
 } catch (Exception $e) {
     echo json_encode(["error" => $e->getMessage()]);
 }
+
+//npm install -g http-server
+//http-server .
 ?>
