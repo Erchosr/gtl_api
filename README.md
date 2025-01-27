@@ -6,7 +6,7 @@ L'API Email permet de récupérer les détails des emails, de lister les emails 
 ## Features
 - **Récupération des détails d'un email spécifique** : Utilisez le paramètre `email_number` pour obtenir les détails d'un email.
 - **Liste des emails non lus** : Si le paramètre `email_number` n'est pas fourni, l'API retourne tous les emails non lus.
-- **Liste des emails avec pièces jointes** : Identifiez les emails contenant des pièces jointes avec une icône 📎.
+- **Répetoire des emails** : Identifiez les emails de la boite maill fournie.
 - **Installation des pièce jointes d'un emaill spécifique** : Utilisez le paramètre `email_number` pour installer les pièce jointe dans le dossier attachements local
 - **Affichage des destinataires** : Les destinataires (À, CC, CCI) des emails sont inclus dans la réponse.
 
