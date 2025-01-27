@@ -1,7 +1,7 @@
 # **Email API**
 
 ## Introduction
-L'API Email permet de récupérer les détails des emails, de lister les emails non lus, ainsi que les emails contenant des pièces jointes. Elle affiche également les destinataires des emails. Les données sont retournées sous forme de JSON. Cette API est conçue pour être utilisée dans un environnement local ou sur un serveur de développement.
+L'API Email permet de récupérer les détails des emails, de lister les emails non lus, ainsi que de telecharger les pièces jointes d'un mail. Elle affiche également les destinataires des emails. Les données sont retournées sous forme de JSON. Cette API est conçue pour être utilisée dans un environnement local ou sur un serveur de développement.
 
 ## Features
 - **Récupération des détails d'un email spécifique** : Utilisez le paramètre `email_number` pour obtenir les détails d'un email.
